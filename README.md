@@ -11,4 +11,5 @@ Projeto sobre Proteção de Dados, feito no curso Explorer da Rocketseat.
 - HTML
 - CSS
 - Figma
+- Codepen
 - Git e Github
